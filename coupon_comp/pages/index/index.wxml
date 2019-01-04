@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class='userinfo'>
+  <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+  <view>优惠券组件</view>
+</view>
+<v-coupon couponsList="{{couponsList}}"></v-coupon>

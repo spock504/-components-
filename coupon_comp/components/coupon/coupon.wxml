@@ -1,0 +1,18 @@
+<block class='couponsList' wx:for="{{couponsList}}" wx:key="">
+    <view class='couponsItem'>
+        <view class="{{item.status==0?'couponsMoney':'couponsMoneyOverdue'}}">
+          <text>{{item.discount}}</text>
+        </view>
+        <view class='circleTop'></view>
+        <view class='circleBottom'></view>
+        <view class='couponsDetail'>
+          <p>{{item.coupon.name}}</p>
+          <text>适用情况：{{item.usableCondition}}</text>          
+          <text>有效期：{{item.startTime}} 至 {{item.cutOffTime}}</text>
+        </view>
+        <view class="{{item.status==0?'':'overdue'}}">
+          <text class="{{item.status==0?'':'overdueText'}}" wx:if='{{item.status==1}}'>已使用</text>
+          <text class="{{item.status==0?'':'overdueText'}}" wx:if='{{item.status==2}}'>已过期</text>
+        </view>
+    </view>
+</block>

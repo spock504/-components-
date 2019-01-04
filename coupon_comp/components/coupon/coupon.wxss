@@ -1,0 +1,92 @@
+.couponsList{
+  width: 100%;
+  height: 100%;
+}
+.couponsItem{
+  position: relative;
+  width: 700rpx;
+  height: 220rpx;
+  background-color: white;
+  margin: 30rpx 30rpx 30rpx 30rpx;
+  display: flex;
+  flex-direction: row;
+  border-radius: 13rpx;
+}
+/* 俩个圆点的位置 */
+.circleTop{
+  position: absolute;
+  width: 30rpx;
+  height: 30rpx;
+  left: 200rpx;
+  top: -10rpx;
+  background: #F5F5F5;   
+  border-radius: 50%;
+}
+.circleBottom{
+  position: absolute;  
+  float: left;
+  width: 30rpx;
+  height: 30rpx;
+  left: 200rpx;
+  top: 205rpx;
+  background: #F5F5F5;
+  border-radius: 50%;
+}
+.couponsMoney{
+  width: 31%;
+  height: 220rpx;
+  border-right: 5rpx dotted #ed5ea1;
+  border-radius: 13rpx;
+  background: linear-gradient(to right, rgba(237,94,161,1),rgba(237,94,161,0.8));
+  text-align: center;
+}
+.couponsMoney >text{
+  /* width: 180rpx;  */
+  line-height: 220rpx;
+  font-size: 52rpx;
+  color: white;
+  width: 80rpx;
+  text-align: center;
+}
+.couponsDetail{
+  margin-left: 20rpx;
+  width: 69%;
+  display: flex;
+  flex-direction: column;
+}
+.couponsDetail >p{
+  font-size: 32rpx;
+  padding: 30rpx 0 10rpx 20rpx;
+  margin-bottom:10rpx;
+}
+.couponsDetail >text{
+  font-size: 26rpx;
+  color: #A9A9A9;
+  padding: 10rpx 0 5rpx 20rpx
+}
+.overdue{
+  width: 11%;
+  height: 220rpx;
+  border-left: 1px dotted #808080
+}
+.overdueText{
+  display: flex;
+  flex-direction: row;
+  font-size: 30rpx;
+  color: #A9A9A9;
+  padding: 50rpx 20rpx 50rpx 20rpx;
+}
+
+.couponsMoneyOverdue{
+  text-align: center;
+  width: 36.5%;
+  height: 220rpx;
+  border-radius: 13rpx;
+  border-right: 5rpx dotted #F5F5F5;
+  background: linear-gradient(to right, #C0C0C0 , #E1E0E0);
+}
+.couponsMoneyOverdue >text{
+  line-height: 220rpx;
+  font-size: 52rpx;
+  color: white;
+}
