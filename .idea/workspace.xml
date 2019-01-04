@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="466c0660-644c-4012-8702-67de3242f766" name="Default" comment="" />
+    <list default="true" id="466c0660-644c-4012-8702-67de3242f766" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/app.wxss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/components/btmModel/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/components/btmModel/index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/components/btmModel/index.wxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/components/btmModel/index.wxss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/index/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/index/index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/index/index.wxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/index/index.wxss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/logs/logs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/logs/logs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/logs/logs.wxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/pages/logs/logs.wxss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/project.config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/btmModel_comp/utils/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coupon_comp/.idea/coupon_comp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coupon_comp/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coupon_comp/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/calendar_comp/index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coupon_comp/index" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -48,6 +72,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -58,19 +83,36 @@
             <path>
               <item name="calendar_wx" type="b2602c69:ProjectViewProjectNode" />
               <item name="calendar_wx" type="462c0819:PsiDirectoryNode" />
-              <item name="calendar_comp" type="462c0819:PsiDirectoryNode" />
+              <item name="btmModel_comp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calendar_wx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calendar_wx" type="462c0819:PsiDirectoryNode" />
+              <item name="btmModel_comp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calendar_wx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calendar_wx" type="462c0819:PsiDirectoryNode" />
+              <item name="btmModel_comp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calendar_wx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calendar_wx" type="462c0819:PsiDirectoryNode" />
+              <item name="coupon_comp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-    <property name="last_opened_file_path" value="E:/project/baby" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -96,30 +138,31 @@
       <option name="presentableId" value="Default" />
       <updated>1546596328968</updated>
       <workItem from="1546596330091" duration="49000" />
+      <workItem from="1546604472147" duration="1162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49000" />
+    <option name="totallyTimeSpent" value="1211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>

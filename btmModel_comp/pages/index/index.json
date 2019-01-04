@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "v-btmModel":"/components/btmModel/index"
+  }
+}

@@ -1,0 +1,6 @@
+<view class="modalMask" bindtap="hideModal" catchtouchmove="preventTouchMove" wx:if="{{_showModal}}"></view>
+<view class="modalDialog {{_showModal?'modelfadeUp':''}}" wx:if="{{_showModal}}">
+  内容撑大内容撑大恍恍惚惚恍恍惚惚恍恍惚惚
+  恍恍惚惚恍恍惚惚恍恍惚惚
+  恍恍惚惚恍恍惚惚恍恍惚惚
+</view>
