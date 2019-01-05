@@ -1,7 +1,23 @@
 # wx_components
-å¾®ä¿¡å°ç¨‹åºçš„ç»„ä»¶å¼€å‘
-## 1. calendar component . æ—¥å†ç»„ä»¶
+Î¢ĞÅĞ¡³ÌĞòµÄ×é¼ş¿ª·¢
+## 1. calendar component . ÈÕÀú×é¼ş
 
-![æ—¥å†å›¾ç‰‡](https://github.com/spock504/wx_components/blob/master/image/image.png)   
-## 2. coupon component . ä¼˜æƒ åˆ¸ç»„ä»¶  
-![ä¼˜æƒ åˆ¸å›¾ç‰‡](https://github.com/spock504/wx_components/blob/master/image/coupon.png) 
+![ÈÕÀúÍ¼Æ¬](https://github.com/spock504/wx_components/blob/master/image/calendar.png)   
+### Ê¹ÓÃËµÃ÷  
+``` javascript
+<v-calendar days="{{days}}" bind:initDate="initDate" bind:changeDate="changeDate"></v-calendar>
+```
+  Êı¾İ:  days Êı×éÀàĞÍ,±íÊ¾µ±Ç°ÔÂ·İ,ÆäÖĞ¿É´«Èë days[3].choosed = true,±íÊ¾Ä³Ò»ÌìÏÔÊ¾ÎªÎªÑ¡ÖĞ×´Ì¬¡£  
+  Á½¸ö·½·¨: initDate ·½·¨£º±íÊ¾×é¼ş³õÊ¼»¯Ê±µÄµ±Ç°ÔÂ·İ;´«µİÁ½¸ö²ÎÊı,initYear ºÍ initMonth±íÊ¾³õÊ¼»¯Ê±µÄÄê,ÔÂ;
+            changeDate·½·¨:±íÊ¾µã»÷×é¼şÉÏµÄ°´Å¥,Ñ¡Ôñ²»Í¬µÄÔÂ·İ;Í¬Ê±Ò²´«µİÁ½¸ö²ÎÊı,newYear ºÍ newMonth±íÊ¾±ä»¯ºóµÄÄê,ÔÂ
+## 2. coupon component . ÓÅ»İÈ¯×é¼ş  
+![ÓÅ»İÈ¯Í¼Æ¬](https://github.com/spock504/wx_components/blob/master/image/coupon.png) 
+### Ê¹ÓÃËµÃ÷  
+``` javascript
+<v-coupon couponsList="{{couponsList}}"></v-coupon>
+```
+Êı¾İ:couponsList Êı×éÀàĞÍ,discount:×ó±ßÏÔÊ¾µÄÎÄ×Ö,name:ÖĞ¼äÏÔÊ¾µÄÃû³Æ,startTime,endTime ¿ªÊ¼ºÍ½áÊøµÄÊ±¼ä,  
+    status±íÊ¾ÓÅ»İÈ¯µÄ×´Ì¬:  0:¿ÉÊ¹ÓÃ;1:ÒÑÊ¹ÓÃ;2:ÒÑ¹ıÆÚ.  
+## 3. btmModel component . µ×²¿µ¯´°×é¼ş  
+
+

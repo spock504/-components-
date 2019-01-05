@@ -1,0 +1,868 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"off",
+				"offsetLeft"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"docu",
+				"document\t: Document Window"
+			],
+			[
+				"script",
+				"scriptString"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"load",
+				"loadSettlementCycle"
+			],
+			[
+				"sele",
+				"selectValue"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"west",
+				"west_1"
+			],
+			[
+				"getElement",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"CONS",
+				"console_log"
+			],
+			[
+				"isF",
+				"isFirstLoad"
+			],
+			[
+				"prevent",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"user",
+				"userAccount"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"getElements",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"img",
+				"imglist"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"scroll",
+				"scrollDiv"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"count",
+				"countlist"
+			],
+			[
+				"getELe",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"getElem",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"gete",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"clas",
+				"classNameMap"
+			],
+			[
+				"new",
+				"newClass"
+			],
+			[
+				"sc",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"translate",
+				"translate()"
+			],
+			[
+				"transla",
+				"translate()"
+			],
+			[
+				"screen-2",
+				"screen-2__point"
+			],
+			[
+				"screen",
+				"screen-2"
+			],
+			[
+				"scr",
+				"screen-2"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"header__nav",
+				"header__nav-item"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"car",
+				"carCount"
+			],
+			[
+				"order",
+				"order-num"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"Err",
+				"ERR_OK"
+			],
+			[
+				"getC",
+				"getCarList"
+			],
+			[
+				"Order",
+				"OrderSuccess"
+			],
+			[
+				"address",
+				"addressList"
+			],
+			[
+				"addr-",
+				"addr-tel"
+			],
+			[
+				"addre",
+				"address-content"
+			],
+			[
+				"checked",
+				"checkedAll"
+			],
+			[
+				"chec",
+				"checkedAll"
+			],
+			[
+				"index",
+				"indexItem"
+			],
+			[
+				"get",
+				"getCarList"
+			],
+			[
+				"prod",
+				"productId"
+			],
+			[
+				"Item",
+				"Itemcheck"
+			],
+			[
+				"produc",
+				"productNum"
+			],
+			[
+				"resul",
+				"result-cal"
+			],
+			[
+				"cart",
+				"cartList"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"show",
+				"showLoginOut"
+			],
+			[
+				"sin",
+				"signin-slot"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"showLo",
+				"showLogDialog"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"Vue",
+				"VueLoadLazy"
+			],
+			[
+				"price",
+				"price-inter"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"afterF",
+				"afterFindOne"
+			],
+			[
+				"deleteCom",
+				"deleteCommentsIdByPostId"
+			],
+			[
+				"delete",
+				"deleteCommentById"
+			],
+			[
+				"objec",
+				"objectIdToTimestamp"
+			],
+			[
+				"forE",
+				"forEach"
+			],
+			[
+				"mongo",
+				"mongolass"
+			],
+			[
+				"check",
+				"checkLogin"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"bubble",
+				"bubbleSort"
+			],
+			[
+				"bu",
+				"bubbleSort"
+			],
+			[
+				"SLIDEl",
+				"slideLiWidth"
+			],
+			[
+				"queryS",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"slideL",
+				"slideLiNum"
+			],
+			[
+				"slideU",
+				"slideUl"
+			],
+			[
+				"setH",
+				"setHeight"
+			],
+			[
+				"interV",
+				"intervalTime"
+			],
+			[
+				"IMG",
+				"imgWidth"
+			],
+			[
+				"imgl",
+				"imgList"
+			],
+			[
+				"imgsl",
+				"imgsList"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"nav_",
+				"NAV_TOP"
+			],
+			[
+				"olad",
+				"oldonload"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"margin-bo",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mob",
+				"mob-team-img"
+			],
+			[
+				"bakg",
+				"background-size\tproperty"
+			],
+			[
+				"bak",
+				"background-image\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"footer",
+				"footer-help"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"backgroun",
+				"background-image\tproperty"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"slide-",
+				"slide-turn-icon"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"result",
+				"resultobj"
+			],
+			[
+				"resol",
+				"resolve"
+			],
+			[
+				"playlis",
+				"playlist"
+			],
+			[
+				"playlist",
+				"playlistMixin"
+			],
+			[
+				"current",
+				"currentSong"
+			],
+			[
+				"save",
+				"saveFavoriteList"
+			],
+			[
+				"play",
+				"playmixin"
+			],
+			[
+				"dele",
+				"deleteOne"
+			],
+			[
+				"SET_PLAY",
+				"SET_PLAYING_STATE"
+			],
+			[
+				"sequen",
+				"sequenceList"
+			],
+			[
+				"curren",
+				"currentSong"
+			],
+			[
+				"set",
+				"setPlayingState"
+			],
+			[
+				"sequ",
+				"sequenceList"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) )",
+			" urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) )",
+			"ipp = sublime.installed_packages_path()",
+			"pf = 'Package Control.sublime-package';",
+			"h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88';",
+			"import urllib.request,os,hashlib; ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Project/aboutSong/Vueitem/build/webpack.dev.conf.js",
+		"/D/Project/aboutSong/Vueitem/index.html",
+		"/D/Project/aboutSong/Vueitem/db.json",
+		"/D/Project/aboutSong/Vueitem/src/store/index.js",
+		"/D/Project/aboutSong/Vueitem/src/store/modules/orderList.js",
+		"/D/Project/aboutSong/Vueitem/src/pages/index.vue",
+		"/D/Project/aboutSong/Vueitem/src/App.vue",
+		"/D/Project/aboutSong/Vueitem/src/pages/detail.vue",
+		"/D/Project/aboutSong/Vueitem/package-lock.json",
+		"/D/Project/aboutSong/Vueitem/src/main.js",
+		"/D/Project/aboutSong/Vueitem/README.md",
+		"/D/Project/aboutSong/Vueitem/data.json",
+		"/C/Users/spock/AppData/Roaming/npm-cache/_logs/2019-01-01T12_08_02_410Z-debug.log",
+		"/C/Users/spock/Desktop/学习/githubItem/elema/vueEleme/src/components/seller/seller.vue",
+		"/C/Users/spock/Desktop/学习/githubItem/elema/vueEleme/src/components/goods/goods.vue",
+		"/C/Users/spock/Desktop/index.html",
+		"/C/Users/spock/AppData/Roaming/npm-cache/_logs/2019-01-01T11_43_27_387Z-debug.log",
+		"/C/Users/spock/Desktop/02-封装缓动动画函数.html",
+		"/C/Users/spock/Desktop/menu/menu/src/components/menu.vue",
+		"/C/Users/spock/Desktop/lunbo/index (1).html",
+		"/C/Users/spock/Desktop/menu/menu/src/App.vue",
+		"/C/Users/spock/Desktop/小程序项目文件/日历/wx_calendar-master/wx_calendar-master/prettier.config.js",
+		"/C/Users/spock/Desktop/小程序项目文件/日历/wx_calendar-master/wx_calendar-master/package.json",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/spock/Desktop/menu.vue",
+		"/D/安装包/cantonesedict.wxapp-master/project.config.json",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/base/progress-bar/progress-bar.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/base/slider/slider.vue",
+		"/C/Users/spock/Desktop/table/new_file.html",
+		"/C/Users/spock/Desktop/table/修改+new_file.html",
+		"/D/安装包/cantonesedict.wxapp-master/app.json",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/base/song-list/song-list.vue",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/build/webpack.dev.conf.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/main.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/router/index.js",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/src/components/main.vue",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/src/App.vue",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/src/main.js",
+		"/C/Users/spock/Desktop/小程序项目文件/7月的小项目/components/like/index.js",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/src/router/index.js",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/src/components/HelloWorld.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/App.vue",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/src/mock.js",
+		"/C/Users/spock/Desktop/工作/css/style.css",
+		"/C/Users/spock/Desktop/工作/index.html",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/data.json",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/src/main.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/dist/index.html",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/src/store/modules/orderList.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/src/pages/detail.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/build/utils.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/config/index.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/src/store/index.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vueStudyOne/db.json",
+		"/C/Users/spock/Desktop/table/ajax/ajax/main.vue",
+		"/C/Users/spock/Desktop/table/ajax/ajax/ajax.html",
+		"/C/Users/spock/Desktop/table/ajax/ajax/index.html",
+		"/C/Users/spock/Desktop/table/ajax/ajax/MyAjax.js",
+		"/C/Users/spock/Desktop/table/ajax/ajax/test/package.json",
+		"/C/Users/spock/Desktop/table/ajax/ajax/ajax.php",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/api/song.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/api/search.js",
+		"/C/Users/spock/Desktop/table/全部.html",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/api/config.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/api/singer.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/api/recommend.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/common/js/util.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/api/rank.js",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/api/users.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/base/switches/switches.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/components/music-list/music-list.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/base/listview/listview.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/components/singer-detail/singer-detail.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/src/components/recommend/recommend.vue",
+		"/C/Users/spock/Desktop/githubItem/Items/NBA商城/index.html",
+		"/C/Users/spock/Desktop/githubItem/Items/NBA商城/js/global.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/package.json",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/build/webpack.dev.conf.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/config/index.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vue-music/prod.server.js",
+		"/C/Users/spock/Desktop/githubItem/Items/NBA商城/js/my-slide.js",
+		"/C/Users/spock/Desktop/githubItem/Items/NBA商城/js/slide.js",
+		"/C/Users/spock/Desktop/githubItem/Items/NBA商城/style/index.css",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/project/b1j6wg/oop.html",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/project/b1j6wg/process.html",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/project/b1j6wg/proto.html",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/project/b1j6wg/layout.html",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/topboottom.html",
+		"/C/Users/spock/Desktop/meetselva-fixed-table-rows-cols-v1.0-2-gb512f9a/meetselva-fixed-table-rows-cols-b512f9a/js/fixed_table_rc.js",
+		"/C/Users/spock/Desktop/meetselva-fixed-table-rows-cols-v1.0-2-gb512f9a/meetselva-fixed-table-rows-cols-b512f9a/sample.html",
+		"/C/Users/spock/Desktop/锁定表头和固定列(Fixed+table+head+and+columns) (1)/js/jquery-migrate-1.2.1.js",
+		"/C/Users/spock/Desktop/锁定表头和固定列(Fixed+table+head+and+columns) (1)/copy1.html",
+		"/C/Users/spock/Desktop/锁定表头和固定列(Fixed+table+head+and+columns) (1)/css/common.css",
+		"/C/Users/spock/Desktop/锁定表头和固定列(Fixed+table+head+and+columns) (1)/css/index.css",
+		"/C/Users/spock/Desktop/锁定表头和固定列(Fixed+table+head+and+columns) (1)/css/main.css",
+		"/C/Users/spock/Desktop/锁定表头和固定列(Fixed+table+head+and+columns) (1)/css/Recharge.css",
+		"/C/Users/spock/Desktop/锁定表头和固定列(Fixed+table+head+and+columns) (1)/css/time.css",
+		"/C/Users/spock/Desktop/test.html",
+		"/C/Users/spock/Desktop/margin.html",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/magicTable.js",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/theme.css",
+		"/D/迅雷下载/慕课前端视频/前端跳槽面试必备技巧/index.html",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/7表单验证/js表单验证案例（源码）/js/test.js",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/7表单验证/js表单验证案例（源码）/face.html",
+		"/C/Users/spock/Desktop/学习/table/fixed-table.js",
+		"/C/Users/spock/Desktop/学习/table/fixed-table.css",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/6正则/正则表达式源码/regexp/9.常用的正则表达式.html",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/6正则/正则表达式源码/regexp/regexp3.html",
+		"/C/Users/spock/Desktop/学习/table/right-fixed-table (1).html",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/6正则/正则表达式源码/regexp/8.String对象中与正则表达式相关的方法.html",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/6正则/正则表达式源码/regexp/7.RegExp对象.html",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/6正则/正则表达式源码/regexp/4.重复.html",
+		"/C/Users/spock/Desktop/学习/table/right-fixed-table.html",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/6正则/正则表达式源码/regexp/5.选择、分组和引用.html",
+		"/D/迅雷下载/慕课前端视频/进阶js核心/二、js面向对象/6正则/正则表达式源码/regexp/6.指定匹配位置.html",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/components/goods.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/vueEleme/build/webpack.base.conf.js",
+		"/C/Users/spock/Desktop/githubItem/elema/vueEleme/config/index.js",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/dist/index.html",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/components/tab.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/components/orderSuccess.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/components/orderConfirm.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/main.js",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/components/m-header.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/components/car.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/components/address.vue",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/src/api/goods.js",
+		"/C/Users/spock/Desktop/githubItem/elema/MiMall/build/webpack.base.conf.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\spock\\Desktop\\how2j\\首页\\carousel.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
