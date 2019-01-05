@@ -6,8 +6,7 @@ Component({
   properties: {
     showModal:{
       type:Boolean,
-      observe(newVal) {
-        console.log("newVal", newVal)
+      observer(newVal) {
         this.setData({
           _showModal: newVal
         })
@@ -19,7 +18,7 @@ Component({
    * 组件的初始数据
    */
   data: {
-    _showModal:true
+    _showModal:false
   },
   attached() {
     // 在组件实例进入页面节点树时执行
@@ -29,10 +28,11 @@ Component({
    */
   methods: {
     hideModal:function() {
-      console.log("点击")
       this.setData({
-        _showModal:false
+        showModal:false
       })
-    }
+    },
+    // 防止遮罩层点击事件
+    preventTouchMove:function(){}
   }
 })

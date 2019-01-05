@@ -12,16 +12,21 @@
 }
 .modalDialog {
   width: 100%;
-  /* overflow: hidden; */
+  padding-top: 20rpx;
+  min-height: 600rpx;
+  overflow: hidden;
   position: fixed;
   bottom: 0;
   left: 0;
   z-index: 9999;
   background: #f9f9f9;
+  border-top-left-radius: 20rpx;
+  border-top-right-radius: 20rpx;  
+  font-size: 16px;
 }
 
 .modelfadeUp {
-  animation: fadeInUp 0.3s;
+  animation: fadeInUp 0.4s;
 }
 @keyframes fadeInUp {
   from {

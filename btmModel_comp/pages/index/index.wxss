@@ -12,3 +12,12 @@
   margin: 20rpx;
   border-radius: 50%;
 }
+.btn {
+  width: 80%;
+  margin: 20rpx auto;
+  background-color: #fffaaa;
+  font-size: 18px;
+}
+.btn::after {
+  border: none;
+}
