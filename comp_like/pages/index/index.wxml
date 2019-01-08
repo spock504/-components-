@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class='userinfo'>
+  <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+  <view>喜欢or不喜欢组件</view>
+</view>
+<v-like like="{{like}}" bind:like="onLike" count="{{count}}"></v-like>
