@@ -1,0 +1,5 @@
+/* pages/index/index.wxss */
+.titleIndex {
+  margin: 30rpx auto;
+  text-align: center;
+}

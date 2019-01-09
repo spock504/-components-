@@ -1,0 +1,8 @@
+<!--components/comp_tab/index.wxml-->
+<view class='container' bindtap="_onTap">
+  <view class='titleBox'>
+    <image class='iconImg' src="{{itemData.imgurl}}"></image>
+    <view class='title'>{{itemData.name}}</view>
+  </view>
+    <image class='iconImg' src="/images/rowRight.png"></image>  
+</view>

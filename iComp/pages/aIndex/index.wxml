@@ -1,0 +1,5 @@
+<!--pages/index/index.wxml-->
+<view class='titleIndex'>目录</view>
+<block wx:for="{{tabList}}" wx:key="{{index}}">
+  <v-tab itemData="{{item}}"></v-tab>
+</block>

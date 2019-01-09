@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "v-tab": "/components/comp_tab/index"
+  }
+}

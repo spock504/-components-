@@ -1,0 +1,22 @@
+/* components/comp_tab/index.wxss */
+.container {
+  padding: 0 60rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100rpx;
+  border-bottom: 1px solid #f5f5f5;
+}
+.container .titleBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .title {
+  font-size: 16px;
+  margin-left: 14rpx;
+}
+.container .iconImg {
+  width: 50rpx;
+  height: 50rpx;
+}
