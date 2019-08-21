@@ -4,7 +4,8 @@
     "pages/btnModel/index",
     "pages/calendar/index",
     "pages/coupon/index",
-    "pages/like/index"
+    "pages/like/index",
+    "pages/chart/pie/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

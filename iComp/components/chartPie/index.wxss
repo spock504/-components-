@@ -1,0 +1,32 @@
+/* components/charPie/index.wxss */
+.canvas-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.label-list {
+  margin-top: 20rpx;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.label-item {
+  display: flex;
+  align-items: center;
+  margin-left: 18rpx;
+  margin-top: 4rpx;
+}
+
+.label-block {
+  margin-right: 4rpx;
+  width: 36rpx;
+  height: 26rpx;
+  border-radius: 6rpx;
+}
+
+.label-text {
+  font-size: 20rpx;
+}

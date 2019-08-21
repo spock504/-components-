@@ -1,0 +1,2 @@
+<!--pages/chart/pie/index.wxml-->
+<v-chartPie chartData="{{chartData}}"></v-chartPie>

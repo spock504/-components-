@@ -25,6 +25,11 @@ Page({
         "name": "喜欢Or不喜欢",
         "imgurl": "/images/icon4.png",
         "pageUrl": "/pages/like/index"        
+      },
+      {
+        "name": "扇形图",
+        "imgurl": "/images/icon5.png",
+        "pageUrl": "/pages/chart/pie/index"
       }
     ]
   },

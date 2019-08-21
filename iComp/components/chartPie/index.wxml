@@ -1,0 +1,12 @@
+<!--components/charPie/index.wxml-->
+<view class="canvas-box">
+  <canvas canvas-id="chartpie" style="width: {{canvasSize}}px; height: {{canvasSize}}px;"></canvas>
+  <view class="label-list">
+    <block wx:for="{{chartData}}" wx:key="key{{index}}">
+      <view class="label-item">
+        <span style="background-color:{{item.color}}" class="label-block"></span>
+        <span class="label-text">{{item.name}}</span>
+      </view>
+    </block>
+  </view>
+</view>
