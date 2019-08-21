@@ -1,7 +1,4 @@
 <!--index.wxml-->
-<view class='userinfo'>
-  <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
-  <image wx:else class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
-  <view>优惠券组件</view>
-</view>
+<v-avatar title="优惠券组件"></v-avatar>
+
 <v-coupon couponsList="{{couponsList}}"></v-coupon>

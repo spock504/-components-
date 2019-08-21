@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "v-coupon":"/components/coupon/coupon"
+    "v-coupon":"/components/coupon/index",
+    "v-avatar": "/components/userAvatar/index"
   }
 }

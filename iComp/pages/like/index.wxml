@@ -1,7 +1,4 @@
 <!--index.wxml-->
-<view class='userinfo'>
-  <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
-  <image wx:else class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
-  <view>喜欢or不喜欢组件</view>
-</view>
+<v-avatar title="喜欢or不喜欢组件"></v-avatar>
+
 <v-like like="{{like}}" bind:like="onLike" count="{{count}}"></v-like>

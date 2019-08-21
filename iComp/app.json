@@ -1,15 +1,16 @@
 {
   "pages": [
-    "pages/aIndex/index",
+    "pages/home/index",
     "pages/btnModel/index",
     "pages/calendar/index",
     "pages/coupon/index",
-    "pages/like/index"    
+    "pages/like/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "v-btmModel":"/components/btmModel/index"
+    "v-btmModel": "/components/btmModel/index",
+    "v-avatar": "/components/userAvatar/index"
   }
 }

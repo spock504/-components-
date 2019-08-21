@@ -1,11 +1,7 @@
 <!--index.wxml-->
-<view class='userinfo'>
-  <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
-  <image wx:else  class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
-  <view>底部弹窗组件</view>
-</view>
-<button class='btn' bindtap='showModel'>点击之后显示底部弹窗</button>
+<v-avatar title="底部弹窗组件"></v-avatar>
 
+<button class='btn' bindtap='showModel'>点击之后显示底部弹窗</button>
 <v-btmModel showModal="{{isShowModal}}">
   <view>弹窗显示</view>
   <view>哈哈哈哈哈；1个和尚;2个和尚</view>

@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "v-calendar":"/components/calendar/calendar"
+    "v-calendar":"/components/calendar/index",
+    "v-avatar": "/components/userAvatar/index"
   }
 }
