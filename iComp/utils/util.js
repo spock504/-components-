@@ -13,7 +13,13 @@ const formatNumber = n => {
   n = n.toString()
   return n[1] ? n : '0' + n
 }
+//  解决toFixed 原生精度丢失
+function tofixed(num, n) {
+  num = Math.round(num * Math.pow(10, n)) / Math.pow(10, n);
+  return (num).toFixed(n);
+}
 
 module.exports = {
-  formatTime: formatTime
+  formatTime: formatTime,
+  tofixed: tofixed
 }

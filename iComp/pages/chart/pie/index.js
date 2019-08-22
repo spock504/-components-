@@ -1,4 +1,5 @@
 // pages/chart/pie/index.js
+
 Page({
 
   /**
